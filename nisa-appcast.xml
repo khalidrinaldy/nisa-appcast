@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>NISA - Appcast</title>
+        <item>
+            <title>Version 1.0.9</title>
+            <description>Updated New Dashboard</description>
+            <pubDate>Thu, 22 Jun 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.nusantarainfrastructure.nisa" sparkle:version="1.0.8" sparkle:os="android" />
+        </item>
+    </channel>
+    <channel>
+          <title>NISA - Appcast</title>
+          <item>
+              <title>Version 1.0.9</title>
+              <description>Updated New Dashboard</description>
+              <pubDate>Thu, 22 Jun 2023 12:00:00 +0000</pubDate>
+              <enclosure url="https://testflight.apple.com/join/dKPAHsM6" sparkle:version="1.0.8" sparkle:os="ios" />
+          </item>
+      </channel>
+</rss>
