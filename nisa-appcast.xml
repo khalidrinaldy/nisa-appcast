@@ -3,19 +3,29 @@
     <channel>
         <title>NISA - Appcast</title>
         <item>
-            <title>Version 1.0.9</title>
-            <description>Updated New Dashboard</description>
-            <pubDate>Thu, 22 Jun 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.nusantarainfrastructure.nisa" sparkle:version="1.0.9" sparkle:os="android" />
+            <title>Version 1.1.10+23</title>
+            <description>
+                (+) New change on add asset & pavement inspection feature:
+                     - users can inspect all asset on their relative highways
+                     - users now should be just input parameter distress rather than input severity & priority too
+                (+) New change on report status "Done" -> "Normal"
+            </description>
+            <pubDate>Wed, 05 Jul 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.nusantarainfrastructure.nisa" sparkle:version="1.1.10" sparkle:os="android" />
         </item>
     </channel>
     <channel>
           <title>NISA - Appcast</title>
           <item>
-              <title>Version 1.0.9</title>
-              <description>Updated New Dashboard</description>
-              <pubDate>Thu, 22 Jun 2023 12:00:00 +0000</pubDate>
-              <enclosure url="https://testflight.apple.com/join/dKPAHsM6" sparkle:version="1.0.9" sparkle:os="ios" />
+              <title>Version 1.1.10+24</title>
+            <description>
+                (+) New change on add asset & pavement inspection feature:
+                     - users can inspect all asset on their relative highways
+                     - users now should be just input parameter distress rather than input severity & priority too
+                (+) New change on report status "Done" -> "Normal"
+            </description>
+              <pubDate>Wed, 05 Jul 2023 12:00:00 +0000</pubDate>
+              <enclosure url="https://testflight.apple.com/join/dKPAHsM6" sparkle:version="1.1.10" sparkle:os="ios" />
           </item>
     </channel>
 </rss>
